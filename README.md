@@ -1,4 +1,5 @@
 ![project](https://github.com/Fikrisn/AbsensynC/assets/121999768/bc0fb5ae-661a-48a9-87a5-4594ff395afa)
+
 Latar Belakang
 Dalam era digital saat ini, kebutuhan untuk mengelola absensi karyawan secara efisien dan efektif semakin meningkat. Perusahaan-perusahaan membutuhkan solusi yang dapat mengurangi kesalahan manual, mempermudah pelacakan kehadiran, dan meningkatkan produktivitas administrasi. Oleh karena itu, sebuah aplikasi absensi berbasis web dan mobile dapat menjadi solusi yang ideal.
 
